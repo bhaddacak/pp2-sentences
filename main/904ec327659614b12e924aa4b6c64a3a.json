@@ -1,0 +1,14 @@
+{
+  "text" : "Yebhuyyasikā",
+  "edit" : "Yebhuyyasikā",
+  "translations" : [ {
+    "variant" : "Thanissaro",
+    "transtext" : "5. Acting in accordance with the majority. This refers to cases in which bhikkhus are unable to settle a dispute unanimously, even after all the proper procedures are followed, and — in the words of the Canon — are \"wounding one another with weapons of the tongue.\" In cases such as these, decisions can be made by majority vote."
+  }, {
+    "variant" : "Thai Common",
+    "transtext" : "๕. (พึงให้) ตัดสินเอาตามคำของคนมากเป็นประมาณ"
+  }, {
+    "variant" : "Nyanamoli",
+    "transtext" : "5. By (the words of) a majority."
+  } ]
+}
