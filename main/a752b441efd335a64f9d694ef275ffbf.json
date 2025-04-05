@@ -1,8 +1,10 @@
 {
-  "text" : "Evaṃ bhante ti kho te bhikkhū bhagavato paccassosuṃ",
-  "edit" : "Evaṃ bhante ti kho te bhikkhū bhagavato paccassosuṃ",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "\"Yes, sir.\" Those monks answered the Blessed One."
-  } ]
+ "text": "Evaṃ bhante ti kho te bhikkhū bhagavato paccassosuṃ",
+ "edit": "Evaṃ bhante ti kho te bhikkhū bhagavato paccassosuṃ",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "\"Yes, sir.\" Those monks answered the Blessed One."
+  }
+ ]
 }

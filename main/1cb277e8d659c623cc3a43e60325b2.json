@@ -1,8 +1,10 @@
 {
-  "text" : "Idha bhikkhave bhikkhu satisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ",
-  "edit" : "Idha bhikkhave bhikkhu satisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, a monk in this [religion] cultivates the mindfulness-factor by means of seclusion, dispassionateness, [and] cessasion, resulting in relinquishment."
-  } ]
+ "text": "Idha bhikkhave bhikkhu satisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ",
+ "edit": "Idha bhikkhave bhikkhu satisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, a monk in this [religion] cultivates the mindfulness-factor by means of seclusion, dispassionateness, [and] cessasion, resulting in relinquishment."
+  }
+ ]
 }

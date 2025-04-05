@@ -1,8 +1,10 @@
 {
-  "text" : "Tathārūpo ayaṃ bhikkhave bhikkhusaṅgho tathārūpā ayaṃ bhikkhave parisā yathārūpāya parisāya appaṃ dinnaṃ bahu hoti bahu dinnaṃ bahutaraṃ",
-  "edit" : "Tathārūpo ayaṃ bhikkhave bhikkhusaṅgho tathārūpā ayaṃ bhikkhave parisā yathārūpāya parisāya appaṃ dinnaṃ bahu hoti bahu dinnaṃ bahutaraṃ",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, this group of monks as such; monks, this assembly as such is [that when] little offering was given by people, [the result of it is] plenty; [when] plenty of offering [was given], [the result is even] more than plenty."
-  } ]
+ "text": "Tathārūpo ayaṃ bhikkhave bhikkhusaṅgho tathārūpā ayaṃ bhikkhave parisā yathārūpāya parisāya appaṃ dinnaṃ bahu hoti bahu dinnaṃ bahutaraṃ",
+ "edit": "Tathārūpo ayaṃ bhikkhave bhikkhusaṅgho tathārūpā ayaṃ bhikkhave parisā yathārūpāya parisāya appaṃ dinnaṃ bahu hoti bahu dinnaṃ bahutaraṃ",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, this group of monks as such; monks, this assembly as such is [that when] little offering was given by people, [the result of it is] plenty; [when] plenty of offering [was given], [the result is even] more than plenty."
+  }
+ ]
 }

@@ -1,8 +1,10 @@
 {
-  "text" : "Kesamuttisuttaṃ",
-  "edit" : "Kesamuttisuttaṃ",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "A discourse concerning those who live in Kesamutta"
-  } ]
+ "text": "Kesamuttisuttaṃ",
+ "edit": "Kesamuttisuttaṃ",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "A discourse concerning those who live in Kesamutta"
+  }
+ ]
 }

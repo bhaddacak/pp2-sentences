@@ -1,8 +1,10 @@
 {
-  "text" : "Santi bhante eke samaṇabrāhmaṇā kesamuttaṃ āgacchanti",
-  "edit" : "Santi bhante eke samaṇabrāhmaṇā kesamuttaṃ āgacchanti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "There are [those], sir. Some ascetics and brahmans come to Kesamutta."
-  } ]
+ "text": "Santi bhante eke samaṇabrāhmaṇā kesamuttaṃ āgacchanti",
+ "edit": "Santi bhante eke samaṇabrāhmaṇā kesamuttaṃ āgacchanti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "There are [those], sir. Some ascetics and brahmans come to Kesamutta."
+  }
+ ]
 }

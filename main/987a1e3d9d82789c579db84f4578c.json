@@ -1,8 +1,10 @@
 {
-  "text" : "Yasmiṃ samaye bhikkhave bhikkhuno upaṭṭhitā sati hoti asammuṭṭhā satisambojjhaṅgo tasmiṃ samaye bhikkhuno āraddho hoti satisambojjhaṅgaṃ tasmiṃ samaye bhikkhu bhāveti satisambojjhaṅgo tasmiṃ samaye bhikkhuno bhāvanāpāripūriṃ gacchati",
-  "edit" : "Yasmiṃ samaye bhikkhave bhikkhuno upaṭṭhitā sati hoti asammuṭṭhā satisambojjhaṅgo tasmiṃ samaye bhikkhuno āraddho hoti satisambojjhaṅgaṃ tasmiṃ samaye bhikkhu bhāveti satisambojjhaṅgo tasmiṃ samaye bhikkhuno bhāvanāpāripūriṃ gacchati",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "In which occasion, monks, the monk's established mindfulness is not forgetful, in that occasion the monk's mindfulness-factor of the enlightenment gets started. In that occasion, the monk cultivates the mindfulness-factor of the enlightenment. In that occasion, the monk's mindfulness-factor of the enlightenment becomes fully developed."
-  } ]
+ "text": "Yasmiṃ samaye bhikkhave bhikkhuno upaṭṭhitā sati hoti asammuṭṭhā satisambojjhaṅgo tasmiṃ samaye bhikkhuno āraddho hoti satisambojjhaṅgaṃ tasmiṃ samaye bhikkhu bhāveti satisambojjhaṅgo tasmiṃ samaye bhikkhuno bhāvanāpāripūriṃ gacchati",
+ "edit": "Yasmiṃ samaye bhikkhave bhikkhuno upaṭṭhitā sati hoti asammuṭṭhā satisambojjhaṅgo tasmiṃ samaye bhikkhuno āraddho hoti satisambojjhaṅgaṃ tasmiṃ samaye bhikkhu bhāveti satisambojjhaṅgo tasmiṃ samaye bhikkhuno bhāvanāpāripūriṃ gacchati",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "In which occasion, monks, the monk's established mindfulness is not forgetful, in that occasion the monk's mindfulness-factor of the enlightenment gets started. In that occasion, the monk cultivates the mindfulness-factor of the enlightenment. In that occasion, the monk's mindfulness-factor of the enlightenment becomes fully developed."
+  }
+ ]
 }

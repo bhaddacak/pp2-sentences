@@ -1,8 +1,10 @@
 {
-  "text" : "Tassa diṭṭheva dhamme ime cattāro assāsā adhigatā hontī ti",
-  "edit" : "Tassa diṭṭheva dhamme ime cattāro assāsā adhigatā hontī ti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "his obtained four consolations in this world exist."
-  } ]
+ "text": "Tassa diṭṭheva dhamme ime cattāro assāsā adhigatā hontī ti",
+ "edit": "Tassa diṭṭheva dhamme ime cattāro assāsā adhigatā hontī ti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "his obtained four consolations in this world exist."
+  }
+ ]
 }

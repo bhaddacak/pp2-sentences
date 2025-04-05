@@ -1,8 +1,10 @@
 {
-  "text" : "Sa kho so kālāmā ariyasāvako evaṃ averacitto evaṃ abyāpajjhacitto evaṃ asaṃkiliṭṭhacitto evaṃ visuddhacitto",
-  "edit" : "Sa kho so kālāmā ariyasāvako evaṃ averacitto evaṃ abyāpajjhacitto evaṃ asaṃkiliṭṭhacitto evaṃ visuddhacitto",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Kālāmas, which that noble disciple, having such a friendly mind, having such a merciful mind, having such an impeccable mind, having such a pure mind,"
-  } ]
+ "text": "Sa kho so kālāmā ariyasāvako evaṃ averacitto evaṃ abyāpajjhacitto evaṃ asaṃkiliṭṭhacitto evaṃ visuddhacitto",
+ "edit": "Sa kho so kālāmā ariyasāvako evaṃ averacitto evaṃ abyāpajjhacitto evaṃ asaṃkiliṭṭhacitto evaṃ visuddhacitto",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Kālāmas, which that noble disciple, having such a friendly mind, having such a merciful mind, having such an impeccable mind, having such a pure mind,"
+  }
+ ]
 }

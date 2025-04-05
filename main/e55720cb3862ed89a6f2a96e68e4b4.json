@@ -1,8 +1,10 @@
 {
-  "text" : "Evaṃ bhāvitā kho bhikkhave ānāpānassati evaṃ bahulīkatā mahapphalā hoti mahānisaṃsā",
-  "edit" : "Evaṃ bhāvitā kho bhikkhave ānāpānassati evaṃ bahulīkatā mahapphalā hoti mahānisaṃsā",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "In that way, monks, mindfulness of breathing [was] cultivated; in that way [it], having been practiced frequently, is rich in result, rich in benefit?"
-  } ]
+ "text": "Evaṃ bhāvitā kho bhikkhave ānāpānassati evaṃ bahulīkatā mahapphalā hoti mahānisaṃsā",
+ "edit": "Evaṃ bhāvitā kho bhikkhave ānāpānassati evaṃ bahulīkatā mahapphalā hoti mahānisaṃsā",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "In that way, monks, mindfulness of breathing [was] cultivated; in that way [it], having been practiced frequently, is rich in result, rich in benefit?"
+  }
+ ]
 }

@@ -1,8 +1,10 @@
 {
-  "text" : "Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi bhikkhavo ti",
-  "edit" : "Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi – bhikkhavo ti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "In that place, the Blessed One called the group of five monks, \"Monks!\"\n"
-  } ]
+ "text": "Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi bhikkhavo ti",
+ "edit": "Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi – bhikkhavo ti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "In that place, the Blessed One called the group of five monks, \"Monks!\"\n"
+  }
+ ]
 }

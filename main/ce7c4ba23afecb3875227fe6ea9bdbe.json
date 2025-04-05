@@ -1,8 +1,10 @@
 {
-  "text" : "Sāvajjā bhante",
-  "edit" : "Sāvajjā bhante",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Blameworthy, sir."
-  } ]
+ "text": "Sāvajjā bhante",
+ "edit": "Sāvajjā bhante",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Blameworthy, sir."
+  }
+ ]
 }

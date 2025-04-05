@@ -1,8 +1,10 @@
 {
-  "text" : "Tathārūpo ayaṃ bhikkhave bhikkhusaṅgho tathārūpā ayaṃ bhikkhave parisā yathārūpā parisā dullabhā dassanāya lokassa",
-  "edit" : "Tathārūpo ayaṃ bhikkhave bhikkhusaṅgho tathārūpā ayaṃ bhikkhave parisā yathārūpā parisā dullabhā dassanāya lokassa",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, this group of monks as such; monks, this assembly as such is rare to be seen in the world."
-  } ]
+ "text": "Tathārūpo ayaṃ bhikkhave bhikkhusaṅgho tathārūpā ayaṃ bhikkhave parisā yathārūpā parisā dullabhā dassanāya lokassa",
+ "edit": "Tathārūpo ayaṃ bhikkhave bhikkhusaṅgho tathārūpā ayaṃ bhikkhave parisā yathārūpā parisā dullabhā dassanāya lokassa",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, this group of monks as such; monks, this assembly as such is rare to be seen in the world."
+  }
+ ]
 }

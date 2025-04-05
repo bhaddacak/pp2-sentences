@@ -1,8 +1,10 @@
 {
-  "text" : "Taṃ kho panidaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ bhāvetabba nti me bhikkhave pubbe pe udapādi",
-  "edit" : "Taṃ kho panidaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ bhāvetabba nti me bhikkhave pubbe pe udapādi",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, vision, insight, ... thus, \"That path leading to the cessation of suffering as a noble truth should be cultivated.\""
-  } ]
+ "text": "Taṃ kho panidaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ bhāvetabba nti me bhikkhave pubbe pe udapādi",
+ "edit": "Taṃ kho panidaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ bhāvetabba nti me bhikkhave pubbe pe udapādi",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, vision, insight, ... thus, \"That path leading to the cessation of suffering as a noble truth should be cultivated.\""
+  }
+ ]
 }

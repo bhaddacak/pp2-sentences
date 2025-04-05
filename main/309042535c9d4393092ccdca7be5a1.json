@@ -1,8 +1,10 @@
 {
-  "text" : "Tasmātiha bhikkhave kāye kāyānupassī tasmiṃ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ",
-  "edit" : "Tasmātiha bhikkhave kāye kāyānupassī tasmiṃ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Therefore, monks, in that occasion [that] monk lives, being one who see a body in the body, strenuous, thoughtful, mindful, removing avarice and grief in the world."
-  } ]
+ "text": "Tasmātiha bhikkhave kāye kāyānupassī tasmiṃ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ",
+ "edit": "Tasmātiha bhikkhave kāye kāyānupassī tasmiṃ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Therefore, monks, in that occasion [that] monk lives, being one who see a body in the body, strenuous, thoughtful, mindful, removing avarice and grief in the world."
+  }
+ ]
 }

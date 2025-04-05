@@ -1,8 +1,10 @@
 {
-  "text" : "Idaṃ vuccati bhikkhave upādānaṃ",
-  "edit" : "Idaṃ vuccati bhikkhave upādānaṃ",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, this is called 'clinging.'"
-  } ]
+ "text": "Idaṃ vuccati bhikkhave upādānaṃ",
+ "edit": "Idaṃ vuccati bhikkhave upādānaṃ",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, this is called 'clinging.'"
+  }
+ ]
 }

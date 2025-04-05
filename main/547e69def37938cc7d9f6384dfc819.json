@@ -1,8 +1,10 @@
 {
-  "text" : "Evaṃ bhante",
-  "edit" : "Evaṃ bhante",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "It is so, sir."
-  } ]
+ "text": "Evaṃ bhante",
+ "edit": "Evaṃ bhante",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "It is so, sir."
+  }
+ ]
 }

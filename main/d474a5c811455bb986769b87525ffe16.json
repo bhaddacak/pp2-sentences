@@ -1,8 +1,10 @@
 {
-  "text" : "Santi bhikkhave bhikkhū imasmiṃ bhikkhusaṅghe tiṇṇaṃ saṃyojanānaṃ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyanā evarūpāpi bhikkhave santi bhikkhū imasmiṃ bhikkhusaṅghe",
-  "edit" : "Santi bhikkhave bhikkhū imasmiṃ bhikkhusaṅghe tiṇṇaṃ saṃyojanānaṃ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyanā – evarūpāpi bhikkhave santi bhikkhū imasmiṃ bhikkhusaṅghe",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, there are monks in this group, [who are] those destroying the [lower] three fetters of rebirth, those reaching the stream, normally not falling down, certain for enlightenment eventually. Monks, there are such monks also in this group."
-  } ]
+ "text": "Santi bhikkhave bhikkhū imasmiṃ bhikkhusaṅghe tiṇṇaṃ saṃyojanānaṃ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyanā evarūpāpi bhikkhave santi bhikkhū imasmiṃ bhikkhusaṅghe",
+ "edit": "Santi bhikkhave bhikkhū imasmiṃ bhikkhusaṅghe tiṇṇaṃ saṃyojanānaṃ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyanā – evarūpāpi bhikkhave santi bhikkhū imasmiṃ bhikkhusaṅghe",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, there are monks in this group, [who are] those destroying the [lower] three fetters of rebirth, those reaching the stream, normally not falling down, certain for enlightenment eventually. Monks, there are such monks also in this group."
+  }
+ ]
 }

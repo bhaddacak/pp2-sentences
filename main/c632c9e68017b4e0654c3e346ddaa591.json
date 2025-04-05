@@ -1,8 +1,10 @@
 {
-  "text" : "Rūpañca hidaṃ bhikkhave attā abhavissa nayidaṃ rūpaṃ ābādhāya saṃvatteyya labbhetha ca rūpe evaṃ me rūpaṃ hotu evaṃ me rūpaṃ mā ahosī ti",
-  "edit" : "Rūpañca hidaṃ bhikkhave attā abhavissa nayidaṃ rūpaṃ ābādhāya saṃvatteyya labbhetha ca rūpe – evaṃ me rūpaṃ hotu evaṃ me rūpaṃ mā ahosī ti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "If this form, monks, was the self, this form would not exist for illness, and [you] might obtain the form thus, \"May my form be in this way, may my form not have been in this way.\""
-  } ]
+ "text": "Rūpañca hidaṃ bhikkhave attā abhavissa nayidaṃ rūpaṃ ābādhāya saṃvatteyya labbhetha ca rūpe evaṃ me rūpaṃ hotu evaṃ me rūpaṃ mā ahosī ti",
+ "edit": "Rūpañca hidaṃ bhikkhave attā abhavissa nayidaṃ rūpaṃ ābādhāya saṃvatteyya labbhetha ca rūpe – evaṃ me rūpaṃ hotu evaṃ me rūpaṃ mā ahosī ti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "If this form, monks, was the self, this form would not exist for illness, and [you] might obtain the form thus, \"May my form be in this way, may my form not have been in this way.\""
+  }
+ ]
 }

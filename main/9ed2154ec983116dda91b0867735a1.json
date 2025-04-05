@@ -1,8 +1,10 @@
 {
-  "text" : "Iti hidaṃ āyasmato koṇḍaññassa aññāsikoṇḍañño tveva nāmaṃ ahosīti",
-  "edit" : "Iti hidaṃ āyasmato koṇḍaññassa aññāsikoṇḍañño tveva nāmaṃ ahosīti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "By this manner, this 'Aññāsikoṇḍañña' became a name of the Venerable Koṇḍañña."
-  } ]
+ "text": "Iti hidaṃ āyasmato koṇḍaññassa aññāsikoṇḍañño tveva nāmaṃ ahosīti",
+ "edit": "Iti hidaṃ āyasmato koṇḍaññassa aññāsikoṇḍañño tveva nāmaṃ ahosīti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "By this manner, this 'Aññāsikoṇḍañña' became a name of the Venerable Koṇḍañña."
+  }
+ ]
 }

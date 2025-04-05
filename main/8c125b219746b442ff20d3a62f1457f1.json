@@ -1,8 +1,10 @@
 {
-  "text" : "Dhammacakkappavattanasuttaṃ",
-  "edit" : "Dhammacakkappavattanasuttaṃ",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "A discourse concerning the forward moving of the wheel of Dhamma"
-  } ]
+ "text": "Dhammacakkappavattanasuttaṃ",
+ "edit": "Dhammacakkappavattanasuttaṃ",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "A discourse concerning the forward moving of the wheel of Dhamma"
+  }
+ ]
 }

@@ -1,8 +1,10 @@
 {
-  "text" : "Sāvatthiyaṃ viharati pe paṭiccasamuppādaṃ vo bhikkhave desessāmi vibhajissāmi",
-  "edit" : "Sāvatthiyaṃ viharati pe paṭiccasamuppādaṃ vo bhikkhave desessāmi vibhajissāmi",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "[The Buddha] lives in Sāvatthī. ... [Said the Buddha], \"monks, I will teach you the dependent origination, I will classify [it for you].\""
-  } ]
+ "text": "Sāvatthiyaṃ viharati pe paṭiccasamuppādaṃ vo bhikkhave desessāmi vibhajissāmi",
+ "edit": "Sāvatthiyaṃ viharati pe paṭiccasamuppādaṃ vo bhikkhave desessāmi vibhajissāmi",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "[The Buddha] lives in Sāvatthī. ... [Said the Buddha], \"monks, I will teach you the dependent origination, I will classify [it for you].\""
+  }
+ ]
 }

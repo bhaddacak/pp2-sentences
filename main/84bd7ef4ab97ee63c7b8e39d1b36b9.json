@@ -1,8 +1,10 @@
 {
-  "text" : "Katamañca bhikkhave saḷāyatanaṃ",
-  "edit" : "Katamañca bhikkhave saḷāyatanaṃ?",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, what is six sense bases?"
-  } ]
+ "text": "Katamañca bhikkhave saḷāyatanaṃ",
+ "edit": "Katamañca bhikkhave saḷāyatanaṃ?",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, what is six sense bases?"
+  }
+ ]
 }

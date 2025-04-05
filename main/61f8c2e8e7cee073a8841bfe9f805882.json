@@ -1,8 +1,10 @@
 {
-  "text" : "Santi bhikkhave bhikkhū imasmiṃ bhikkhusaṅghe pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātikā tattha parinibbāyino anāvattidhammā tasmā lokā evarūpāpi bhikkhave santi bhikkhū imasmiṃ bhikkhusaṅghe",
-  "edit" : "Santi bhikkhave bhikkhū imasmiṃ bhikkhusaṅghe pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātikā tattha parinibbāyino anāvattidhammā tasmā lokā – evarūpāpi bhikkhave santi bhikkhū imasmiṃ bhikkhusaṅghe",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, there are monks in this group, [who are] those destroying the lower five fetters of rebirth, [will] be born spontaneously, reach the final release there, normally not return from that world. Monks, there are such monks also in this group."
-  } ]
+ "text": "Santi bhikkhave bhikkhū imasmiṃ bhikkhusaṅghe pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātikā tattha parinibbāyino anāvattidhammā tasmā lokā evarūpāpi bhikkhave santi bhikkhū imasmiṃ bhikkhusaṅghe",
+ "edit": "Santi bhikkhave bhikkhū imasmiṃ bhikkhusaṅghe pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātikā tattha parinibbāyino anāvattidhammā tasmā lokā – evarūpāpi bhikkhave santi bhikkhū imasmiṃ bhikkhusaṅghe",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, there are monks in this group, [who are] those destroying the lower five fetters of rebirth, [will] be born spontaneously, reach the final release there, normally not return from that world. Monks, there are such monks also in this group."
+  }
+ ]
 }

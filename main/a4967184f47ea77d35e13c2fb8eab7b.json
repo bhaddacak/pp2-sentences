@@ -1,8 +1,10 @@
 {
-  "text" : "Assosuṃ kho kesamuttiyā kālāmā samaṇo khalu bho gotamo sakyaputto sakyakulā pabbajito kesamuttaṃ anuppatto",
-  "edit" : "Assosuṃ kho kesamuttiyā kālāmā – samaṇo khalu bho gotamo sakyaputto sakyakulā pabbajito kesamuttaṃ anuppatto",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "The Kālāmas in Kesamutta have heard that \"Ascetic Gotama, a son of the Sākya, having gone forth from the Sākya clan, has reached Kesamutta.\""
-  } ]
+ "text": "Assosuṃ kho kesamuttiyā kālāmā samaṇo khalu bho gotamo sakyaputto sakyakulā pabbajito kesamuttaṃ anuppatto",
+ "edit": "Assosuṃ kho kesamuttiyā kālāmā – samaṇo khalu bho gotamo sakyaputto sakyakulā pabbajito kesamuttaṃ anuppatto",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "The Kālāmas in Kesamutta have heard that \"Ascetic Gotama, a son of the Sākya, having gone forth from the Sākya clan, has reached Kesamutta.\""
+  }
+ ]
 }

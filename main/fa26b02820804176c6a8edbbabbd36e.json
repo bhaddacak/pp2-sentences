@@ -1,8 +1,10 @@
 {
-  "text" : "Nāhaṃ bhikkhave muṭṭhassatissa asampajānassa ānāpānassatiṃ vadāmi",
-  "edit" : "Nāhaṃ bhikkhave muṭṭhassatissa asampajānassa ānāpānassatiṃ vadāmi",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, I do not tell the mindfulness of breathing to one forgetful [and] thoughtless."
-  } ]
+ "text": "Nāhaṃ bhikkhave muṭṭhassatissa asampajānassa ānāpānassatiṃ vadāmi",
+ "edit": "Nāhaṃ bhikkhave muṭṭhassatissa asampajānassa ānāpānassatiṃ vadāmi",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, I do not tell the mindfulness of breathing to one forgetful [and] thoughtless."
+  }
+ ]
 }

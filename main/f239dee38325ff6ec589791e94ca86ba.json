@@ -1,8 +1,10 @@
 {
-  "text" : "Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye jāti sañjāti okkanti nibbatti abhinibbatti khandhānaṃ pātubhāvo āyatanānaṃ paṭilābho",
-  "edit" : "Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye jāti sañjāti okkanti nibbatti abhinibbatti khandhānaṃ pātubhāvo āyatanānaṃ paṭilābho",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Which birth in each class of those beings, [that is] the origin [of life], [as well as] coming into being, coming forth, becoming, appearance of the [five] aggregates, [and] obtaining of the six sense bases."
-  } ]
+ "text": "Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye jāti sañjāti okkanti nibbatti abhinibbatti khandhānaṃ pātubhāvo āyatanānaṃ paṭilābho",
+ "edit": "Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye jāti sañjāti okkanti nibbatti abhinibbatti khandhānaṃ pātubhāvo āyatanānaṃ paṭilābho",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Which birth in each class of those beings, [that is] the origin [of life], [as well as] coming into being, coming forth, becoming, appearance of the [five] aggregates, [and] obtaining of the six sense bases."
+  }
+ ]
 }

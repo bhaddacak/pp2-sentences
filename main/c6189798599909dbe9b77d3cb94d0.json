@@ -1,8 +1,10 @@
 {
-  "text" : "Tena kho pana samayena therā bhikkhū nave bhikkhū ovadanti anusāsanti",
-  "edit" : "Tena kho pana samayena therā bhikkhū nave bhikkhū ovadanti anusāsanti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "By that time, senior monks give advices to [and] instruct new monks."
-  } ]
+ "text": "Tena kho pana samayena therā bhikkhū nave bhikkhū ovadanti anusāsanti",
+ "edit": "Tena kho pana samayena therā bhikkhū nave bhikkhū ovadanti anusāsanti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "By that time, senior monks give advices to [and] instruct new monks."
+  }
+ ]
 }

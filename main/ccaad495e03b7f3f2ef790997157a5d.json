@@ -1,8 +1,10 @@
 {
-  "text" : "Tesaṃ no bhante amhākaṃ hoteva kaṅkhā hoti vicikicchā ko su nāma imesaṃ bhavataṃ samaṇabrāhmaṇānaṃ saccaṃ āha ko musā ti",
-  "edit" : "Tesaṃ no bhante amhākaṃ hoteva kaṅkhā hoti vicikicchā – ko su nāma imesaṃ bhavataṃ samaṇabrāhmaṇānaṃ saccaṃ āha ko musā ti?",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Sir, only doubt [and] uncertainty [in] their [views] happens to us thus, \"As for such these Venerable ascetics and brahmans, who said the truth, who lied?\""
-  } ]
+ "text": "Tesaṃ no bhante amhākaṃ hoteva kaṅkhā hoti vicikicchā ko su nāma imesaṃ bhavataṃ samaṇabrāhmaṇānaṃ saccaṃ āha ko musā ti",
+ "edit": "Tesaṃ no bhante amhākaṃ hoteva kaṅkhā hoti vicikicchā – ko su nāma imesaṃ bhavataṃ samaṇabrāhmaṇānaṃ saccaṃ āha ko musā ti?",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Sir, only doubt [and] uncertainty [in] their [views] happens to us thus, \"As for such these Venerable ascetics and brahmans, who said the truth, who lied?\""
+  }
+ ]
 }

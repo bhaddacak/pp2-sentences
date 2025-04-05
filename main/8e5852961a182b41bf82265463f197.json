@@ -1,8 +1,10 @@
 {
-  "text" : "Passaddhakāyassa sukhino cittaṃ samādhiyati",
-  "edit" : "Passaddhakāyassa sukhino cittaṃ samādhiyati",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "When the body calmed down, [and the monk is] happy, the mind gets concentrated."
-  } ]
+ "text": "Passaddhakāyassa sukhino cittaṃ samādhiyati",
+ "edit": "Passaddhakāyassa sukhino cittaṃ samādhiyati",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "When the body calmed down, [and the monk is] happy, the mind gets concentrated."
+  }
+ ]
 }

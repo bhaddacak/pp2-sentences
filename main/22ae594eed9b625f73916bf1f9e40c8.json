@@ -1,8 +1,10 @@
 {
-  "text" : "Pītimanassa kāyopi passambhati cittampi passambhati",
-  "edit" : "Pītimanassa kāyopi passambhati cittampi passambhati",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "When rapture in the mind [happens], the body calms down, and the mind calms down."
-  } ]
+ "text": "Pītimanassa kāyopi passambhati cittampi passambhati",
+ "edit": "Pītimanassa kāyopi passambhati cittampi passambhati",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "When rapture in the mind [happens], the body calms down, and the mind calms down."
+  }
+ ]
 }

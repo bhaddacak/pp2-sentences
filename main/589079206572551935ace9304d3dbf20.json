@@ -1,8 +1,10 @@
 {
-  "text" : "Idaṃ dukkhanirodhagāminī paṭipadā ariyasacca nti me bhikkhave pubbe ananussutesu dhammesu cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi",
-  "edit" : "Idaṃ dukkhanirodhagāminī paṭipadā ariyasacca nti me bhikkhave pubbe ananussutesu dhammesu cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, vision, insight, wisdom, knowledge, [and] light arose to me in the teaching never heard before thus, \"This [is] the path leading to the cessation of suffering as a noble truth.\""
-  } ]
+ "text": "Idaṃ dukkhanirodhagāminī paṭipadā ariyasacca nti me bhikkhave pubbe ananussutesu dhammesu cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi",
+ "edit": "Idaṃ dukkhanirodhagāminī paṭipadā ariyasacca nti me bhikkhave pubbe ananussutesu dhammesu cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, vision, insight, wisdom, knowledge, [and] light arose to me in the teaching never heard before thus, \"This [is] the path leading to the cessation of suffering as a noble truth.\""
+  }
+ ]
 }

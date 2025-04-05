@@ -1,8 +1,10 @@
 {
-  "text" : "Te ca navā bhikkhū therehi bhikkhūhi ovadiyamānā anusāsiyamānā uḷāraṃ pubbenāparaṃ visesaṃ jānanti",
-  "edit" : "Te ca navā bhikkhū therehi bhikkhūhi ovadiyamānā anusāsiyamānā uḷāraṃ pubbenāparaṃ visesaṃ jānanti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Those new monks, being given advices [and] instructed by senior monks, know the excellent, superb [knowledge] unknown formerly."
-  } ]
+ "text": "Te ca navā bhikkhū therehi bhikkhūhi ovadiyamānā anusāsiyamānā uḷāraṃ pubbenāparaṃ visesaṃ jānanti",
+ "edit": "Te ca navā bhikkhū therehi bhikkhūhi ovadiyamānā anusāsiyamānā uḷāraṃ pubbenāparaṃ visesaṃ jānanti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Those new monks, being given advices [and] instructed by senior monks, know the excellent, superb [knowledge] unknown formerly."
+  }
+ ]
 }

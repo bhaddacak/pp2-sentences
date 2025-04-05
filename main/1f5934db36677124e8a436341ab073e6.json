@@ -1,8 +1,10 @@
 {
-  "text" : "Chayime bhikkhave taṇhākāyā rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā",
-  "edit" : "Chayime bhikkhave taṇhākāyā – rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, [they are] these six groups of craving: craving for image, craving for sound, craving for smell, craving for taste, craving for touch, [and] craving for mental object."
-  } ]
+ "text": "Chayime bhikkhave taṇhākāyā rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā",
+ "edit": "Chayime bhikkhave taṇhākāyā – rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, [they are] these six groups of craving: craving for image, craving for sound, craving for smell, craving for taste, craving for touch, [and] craving for mental object."
+  }
+ ]
 }

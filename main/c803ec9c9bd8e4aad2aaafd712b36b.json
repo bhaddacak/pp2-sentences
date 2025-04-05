@@ -1,8 +1,10 @@
 {
-  "text" : "Ñāṇañca pana me dassanaṃ udapādi akuppā me vimutti ayamantimā jāti natthidāni punabbhavo ti",
-  "edit" : "Ñāṇañca pana me dassanaṃ udapādi – akuppā me vimutti ayamantimā jāti natthidāni punabbhavo ti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Knowledge and insight arose to me thus, \"My liberation [is] unshakable; this [is my] final birth; now there is no more becoming.\""
-  } ]
+ "text": "Ñāṇañca pana me dassanaṃ udapādi akuppā me vimutti ayamantimā jāti natthidāni punabbhavo ti",
+ "edit": "Ñāṇañca pana me dassanaṃ udapādi – akuppā me vimutti ayamantimā jāti natthidāni punabbhavo ti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Knowledge and insight arose to me thus, \"My liberation [is] unshakable; this [is my] final birth; now there is no more becoming.\""
+  }
+ ]
 }

@@ -1,8 +1,10 @@
 {
-  "text" : "Yasmā ca kho bhikkhave rūpaṃ anattā tasmā rūpaṃ ābādhāya saṃvattati na ca labbhati rūpe evaṃ me rūpaṃ hotu evaṃ me rūpaṃ mā ahosī ti",
-  "edit" : "Yasmā ca kho bhikkhave rūpaṃ anattā tasmā rūpaṃ ābādhāya saṃvattati na ca labbhati rūpe – evaṃ me rūpaṃ hotu evaṃ me rūpaṃ mā ahosī ti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Because, monks, form [is] nonself, therefore form exists for illness, and [one] does not obtain the form thus, \"May my form be in this way, may my form not have been in this way.\""
-  } ]
+ "text": "Yasmā ca kho bhikkhave rūpaṃ anattā tasmā rūpaṃ ābādhāya saṃvattati na ca labbhati rūpe evaṃ me rūpaṃ hotu evaṃ me rūpaṃ mā ahosī ti",
+ "edit": "Yasmā ca kho bhikkhave rūpaṃ anattā tasmā rūpaṃ ābādhāya saṃvattati na ca labbhati rūpe – evaṃ me rūpaṃ hotu evaṃ me rūpaṃ mā ahosī ti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Because, monks, form [is] nonself, therefore form exists for illness, and [one] does not obtain the form thus, \"May my form be in this way, may my form not have been in this way.\""
+  }
+ ]
 }

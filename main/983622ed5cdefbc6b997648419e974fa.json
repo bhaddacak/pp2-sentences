@@ -1,8 +1,10 @@
 {
-  "text" : "Idamavoca bhagavā",
-  "edit" : "Idamavoca bhagavā",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "The Blessed One said this."
-  } ]
+ "text": "Idamavoca bhagavā",
+ "edit": "Idamavoca bhagavā",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "The Blessed One said this."
+  }
+ ]
 }

@@ -1,8 +1,10 @@
 {
-  "text" : "Katamo ca bhikkhave paṭiccasamuppādo",
-  "edit" : "Katamo ca bhikkhave paṭiccasamuppādo?",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, what is dependent origination?"
-  } ]
+ "text": "Katamo ca bhikkhave paṭiccasamuppādo",
+ "edit": "Katamo ca bhikkhave paṭiccasamuppādo?",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, what is dependent origination?"
+  }
+ ]
 }

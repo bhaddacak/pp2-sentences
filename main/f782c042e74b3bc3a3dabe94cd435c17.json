@@ -1,8 +1,10 @@
 {
-  "text" : "Kusalā bhante",
-  "edit" : "Kusalā bhante",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Skillful, sir."
-  } ]
+ "text": "Kusalā bhante",
+ "edit": "Kusalā bhante",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Skillful, sir."
+  }
+ ]
 }

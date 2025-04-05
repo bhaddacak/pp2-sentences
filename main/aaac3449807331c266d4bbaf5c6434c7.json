@@ -1,8 +1,10 @@
 {
-  "text" : "Taṃ suṇātha sādhukaṃ manasi karotha bhāsissāmī ti",
-  "edit" : "Taṃ suṇātha sādhukaṃ manasi karotha bhāsissāmī ti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "\"Listen to that. Think it over carefully. I will say.\""
-  } ]
+ "text": "Taṃ suṇātha sādhukaṃ manasi karotha bhāsissāmī ti",
+ "edit": "Taṃ suṇātha sādhukaṃ manasi karotha bhāsissāmī ti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "\"Listen to that. Think it over carefully. I will say.\""
+  }
+ ]
 }

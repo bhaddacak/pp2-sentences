@@ -1,8 +1,10 @@
 {
-  "text" : "So tathāsamāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti",
-  "edit" : "So tathāsamāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "When the mind got concentrated as such, that [monk] becomes indifferent properly."
-  } ]
+ "text": "So tathāsamāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti",
+ "edit": "So tathāsamāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "When the mind got concentrated as such, that [monk] becomes indifferent properly."
+  }
+ ]
 }

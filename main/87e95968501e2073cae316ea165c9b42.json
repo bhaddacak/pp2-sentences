@@ -1,8 +1,10 @@
 {
-  "text" : "Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi dveme bhikkhave antā pabbajitena na sevitabbā",
-  "edit" : "Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi – dveme bhikkhave antā pabbajitena na sevitabbā",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "In that place, the Blessed One called the group of five monks. \"These two extremes, monks, should not be practiced by a renouncer.\""
-  } ]
+ "text": "Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi dveme bhikkhave antā pabbajitena na sevitabbā",
+ "edit": "Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi – dveme bhikkhave antā pabbajitena na sevitabbā",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "In that place, the Blessed One called the group of five monks. \"These two extremes, monks, should not be practiced by a renouncer.\""
+  }
+ ]
 }

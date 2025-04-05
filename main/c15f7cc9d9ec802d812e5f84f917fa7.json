@@ -1,8 +1,10 @@
 {
-  "text" : "Etha tumhe kālāmā mā anussavena mā paramparāya mā itikirāya mā piṭakasampadānena mā takkahetu mā nayahetu mā ākāraparivitakkena mā diṭṭhinijjhānakkhantiyā mā bhabbarūpatāya mā samaṇo no garūti",
-  "edit" : "Etha tumhe kālāmā mā anussavena mā paramparāya mā itikirāya mā piṭakasampadānena mā takkahetu mā nayahetu mā ākāraparivitakkena mā diṭṭhinijjhānakkhantiyā mā bhabbarūpatāya mā samaṇo no garūti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Come, Kālāmas. Do not [take merely] by hearsay. Do not [take merely] by traditional practice. Do not [take merely] by hearing thus. Do not [take merely] by referring to text. Do not [take merely] by thinking. Do not [take merely] by inference. Do not [take merely] by appearance consideration. Do not [take merely] by agreement with our view. Do not [take merely] by appearance of likelihood. Do not [take merely] by [seeing this] ascetic as [our] teacher."
-  } ]
+ "text": "Etha tumhe kālāmā mā anussavena mā paramparāya mā itikirāya mā piṭakasampadānena mā takkahetu mā nayahetu mā ākāraparivitakkena mā diṭṭhinijjhānakkhantiyā mā bhabbarūpatāya mā samaṇo no garūti",
+ "edit": "Etha tumhe kālāmā mā anussavena mā paramparāya mā itikirāya mā piṭakasampadānena mā takkahetu mā nayahetu mā ākāraparivitakkena mā diṭṭhinijjhānakkhantiyā mā bhabbarūpatāya mā samaṇo no garūti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Come, Kālāmas. Do not [take merely] by hearsay. Do not [take merely] by traditional practice. Do not [take merely] by hearing thus. Do not [take merely] by referring to text. Do not [take merely] by thinking. Do not [take merely] by inference. Do not [take merely] by appearance consideration. Do not [take merely] by agreement with our view. Do not [take merely] by appearance of likelihood. Do not [take merely] by [seeing this] ascetic as [our] teacher."
+  }
+ ]
 }

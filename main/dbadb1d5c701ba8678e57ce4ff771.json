@@ -1,8 +1,10 @@
 {
-  "text" : "Dukkhaṃ bhante",
-  "edit" : "Dukkhaṃ bhante",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Suffering, sir."
-  } ]
+ "text": "Dukkhaṃ bhante",
+ "edit": "Dukkhaṃ bhante",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Suffering, sir."
+  }
+ ]
 }

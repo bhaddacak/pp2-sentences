@@ -1,8 +1,10 @@
 {
-  "text" : "No hetaṃ bhante",
-  "edit" : "No hetaṃ bhante",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "No, it isn't, sir."
-  } ]
+ "text": "No hetaṃ bhante",
+ "edit": "No hetaṃ bhante",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "No, it isn't, sir."
+  }
+ ]
 }

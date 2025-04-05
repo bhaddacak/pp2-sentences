@@ -1,8 +1,10 @@
 {
-  "text" : "Idaṃ vuccati rūpaṃ",
-  "edit" : "Idaṃ vuccati rūpaṃ",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "This is called 'form.'"
-  } ]
+ "text": "Idaṃ vuccati rūpaṃ",
+ "edit": "Idaṃ vuccati rūpaṃ",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "This is called 'form.'"
+  }
+ ]
 }

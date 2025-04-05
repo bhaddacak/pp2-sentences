@@ -1,8 +1,10 @@
 {
-  "text" : "Kaṅkhanīyeva pana vo ṭhāne vicikicchā uppannā",
-  "edit" : "Kaṅkhanīyeva pana vo ṭhāne vicikicchā uppannā",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "\"The uncertainty in a doubtworthy case happened to you.\""
-  } ]
+ "text": "Kaṅkhanīyeva pana vo ṭhāne vicikicchā uppannā",
+ "edit": "Kaṅkhanīyeva pana vo ṭhāne vicikicchā uppannā",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "\"The uncertainty in a doubtworthy case happened to you.\""
+  }
+ ]
 }

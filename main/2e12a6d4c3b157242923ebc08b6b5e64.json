@@ -1,8 +1,10 @@
 {
-  "text" : "So yaṃ taṃ abhijjhādomanassānaṃ pahānaṃ taṃ paññāya disvā sādhukaṃ ajjhupekkhitā hoti",
-  "edit" : "So yaṃ taṃ abhijjhādomanassānaṃ pahānaṃ taṃ paññāya disvā sādhukaṃ ajjhupekkhitā hoti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "He, having seen by wisdom that removal of avarice and grief, becomes indifferent properly."
-  } ]
+ "text": "So yaṃ taṃ abhijjhādomanassānaṃ pahānaṃ taṃ paññāya disvā sādhukaṃ ajjhupekkhitā hoti",
+ "edit": "So yaṃ taṃ abhijjhādomanassānaṃ pahānaṃ taṃ paññāya disvā sādhukaṃ ajjhupekkhitā hoti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "He, having seen by wisdom that removal of avarice and grief, becomes indifferent properly."
+  }
+ ]
 }

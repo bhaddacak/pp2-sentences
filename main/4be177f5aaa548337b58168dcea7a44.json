@@ -1,8 +1,10 @@
 {
-  "text" : "Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abhinandunti",
-  "edit" : "Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abhinandunti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "The delighted five monks rejoiced [in] the speech of the Blessed One."
-  } ]
+ "text": "Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abhinandunti",
+ "edit": "Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abhinandunti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "The delighted five monks rejoiced [in] the speech of the Blessed One."
+  }
+ ]
 }

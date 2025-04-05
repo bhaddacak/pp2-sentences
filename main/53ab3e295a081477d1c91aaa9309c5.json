@@ -1,8 +1,10 @@
 {
-  "text" : "Hitāya bhante",
-  "edit" : "Hitāya bhante",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Usefulness, sir."
-  } ]
+ "text": "Hitāya bhante",
+ "edit": "Hitāya bhante",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Usefulness, sir."
+  }
+ ]
 }

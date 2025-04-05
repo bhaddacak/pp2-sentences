@@ -1,8 +1,10 @@
 {
-  "text" : "Alañhi vo kālāmā kaṅkhituṃ alaṃ vicikicchituṃ",
-  "edit" : "Alañhi vo kālāmā kaṅkhituṃ alaṃ vicikicchituṃ",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "\"It is suitable, Kālāmas, to doubt, to be uncertain by you.\""
-  } ]
+ "text": "Alañhi vo kālāmā kaṅkhituṃ alaṃ vicikicchituṃ",
+ "edit": "Alañhi vo kālāmā kaṅkhituṃ alaṃ vicikicchituṃ",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "\"It is suitable, Kālāmas, to doubt, to be uncertain by you.\""
+  }
+ ]
 }

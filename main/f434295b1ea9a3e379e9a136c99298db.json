@@ -1,8 +1,10 @@
 {
-  "text" : "Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ kallaṃ nu taṃ samanupassituṃ etaṃ mama esohamasmi eso me attā ti",
-  "edit" : "Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ kallaṃ nu taṃ samanupassituṃ – etaṃ mama esohamasmi eso me attā ti?",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Which [is] impermanent, suffering, normally changing, is it suitable to see that thus, \"This [is] mine; I am this; This is my self\"?"
-  } ]
+ "text": "Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ kallaṃ nu taṃ samanupassituṃ etaṃ mama esohamasmi eso me attā ti",
+ "edit": "Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ kallaṃ nu taṃ samanupassituṃ – etaṃ mama esohamasmi eso me attā ti?",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Which [is] impermanent, suffering, normally changing, is it suitable to see that thus, \"This [is] mine; I am this; This is my self\"?"
+  }
+ ]
 }

@@ -1,8 +1,10 @@
 {
-  "text" : "Khīṇā jāti vusitaṃ brahmacariyaṃ kataṃ karaṇīyaṃ nāparaṃ itthattāyā ti pajānātī ti",
-  "edit" : "Khīṇā jāti vusitaṃ brahmacariyaṃ kataṃ karaṇīyaṃ nāparaṃ itthattāyā ti pajānātī ti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "[One] knows clearly thus, \"[Further] birth was exhausted, the religious life was fulfilled, what should be done was done, [and] there is no other [work] for being here [on earth again].\""
-  } ]
+ "text": "Khīṇā jāti vusitaṃ brahmacariyaṃ kataṃ karaṇīyaṃ nāparaṃ itthattāyā ti pajānātī ti",
+ "edit": "Khīṇā jāti vusitaṃ brahmacariyaṃ kataṃ karaṇīyaṃ nāparaṃ itthattāyā ti pajānātī ti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "[One] knows clearly thus, \"[Further] birth was exhausted, the religious life was fulfilled, what should be done was done, [and] there is no other [work] for being here [on earth again].\""
+  }
+ ]
 }

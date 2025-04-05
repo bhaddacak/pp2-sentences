@@ -1,8 +1,10 @@
 {
-  "text" : "Vedanā saññā cetanā phasso manasikāro idaṃ vuccati nāmaṃ",
-  "edit" : "Vedanā saññā cetanā phasso manasikāro – idaṃ vuccati nāmaṃ",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Feeling, perception, volition, contact, [and] ideation -- this is called 'name.'"
-  } ]
+ "text": "Vedanā saññā cetanā phasso manasikāro idaṃ vuccati nāmaṃ",
+ "edit": "Vedanā saññā cetanā phasso manasikāro – idaṃ vuccati nāmaṃ",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Feeling, perception, volition, contact, [and] ideation -- this is called 'name.'"
+  }
+ ]
 }

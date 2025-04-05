@@ -1,8 +1,10 @@
 {
-  "text" : "Katamā ca bhikkhave jāti",
-  "edit" : "Katamā ca bhikkhave jāti?",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, what is birth?"
-  } ]
+ "text": "Katamā ca bhikkhave jāti",
+ "edit": "Katamā ca bhikkhave jāti?",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, what is birth?"
+  }
+ ]
 }

@@ -1,8 +1,10 @@
 {
-  "text" : "Anavajjā bhante",
-  "edit" : "Anavajjā bhante",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Praiseworthy, sir."
-  } ]
+ "text": "Anavajjā bhante",
+ "edit": "Anavajjā bhante",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Praiseworthy, sir."
+  }
+ ]
 }

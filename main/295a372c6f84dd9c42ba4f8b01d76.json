@@ -1,8 +1,10 @@
 {
-  "text" : "Vedanā ca hidaṃ bhikkhave attā abhavissa nayidaṃ vedanā ābādhāya saṃvatteyya labbhetha ca vedanāya evaṃ me vedanā hotu evaṃ me vedanā mā ahosī ti",
-  "edit" : "Vedanā ca hidaṃ bhikkhave attā abhavissa nayidaṃ vedanā ābādhāya saṃvatteyya labbhetha ca vedanāya – evaṃ me vedanā hotu evaṃ me vedanā mā ahosī ti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "If this feeling, monks, was the self, this feeling would not exist for illness, and [you] might obtain the feeling thus, \"May my feeling be in this way, may my feeling not have been in this way.\""
-  } ]
+ "text": "Vedanā ca hidaṃ bhikkhave attā abhavissa nayidaṃ vedanā ābādhāya saṃvatteyya labbhetha ca vedanāya evaṃ me vedanā hotu evaṃ me vedanā mā ahosī ti",
+ "edit": "Vedanā ca hidaṃ bhikkhave attā abhavissa nayidaṃ vedanā ābādhāya saṃvatteyya labbhetha ca vedanāya – evaṃ me vedanā hotu evaṃ me vedanā mā ahosī ti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "If this feeling, monks, was the self, this feeling would not exist for illness, and [you] might obtain the feeling thus, \"May my feeling be in this way, may my feeling not have been in this way.\""
+  }
+ ]
 }

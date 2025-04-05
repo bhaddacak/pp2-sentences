@@ -1,8 +1,10 @@
 {
-  "text" : "Saṅkhārā ca hidaṃ bhikkhave attā abhavissaṃsu nayidaṃ saṅkhārā ābādhāya saṃvatteyyuṃ labbhetha ca saṅkhāresu evaṃ me saṅkhārā hontu evaṃ me saṅkhārā mā ahesu nti",
-  "edit" : "Saṅkhārā ca hidaṃ bhikkhave attā abhavissaṃsu nayidaṃ saṅkhārā ābādhāya saṃvatteyyuṃ labbhetha ca saṅkhāresu – evaṃ me saṅkhārā hontu evaṃ me saṅkhārā mā ahesu nti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "If these mental formations, monks, was the self, these mental formations would not exist for illness, and [you] might obtain these mental formations thus, \"May my mental formations be in this way, may my mental formations not have been in this way.\""
-  } ]
+ "text": "Saṅkhārā ca hidaṃ bhikkhave attā abhavissaṃsu nayidaṃ saṅkhārā ābādhāya saṃvatteyyuṃ labbhetha ca saṅkhāresu evaṃ me saṅkhārā hontu evaṃ me saṅkhārā mā ahesu nti",
+ "edit": "Saṅkhārā ca hidaṃ bhikkhave attā abhavissaṃsu nayidaṃ saṅkhārā ābādhāya saṃvatteyyuṃ labbhetha ca saṅkhāresu – evaṃ me saṅkhārā hontu evaṃ me saṅkhārā mā ahesu nti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "If these mental formations, monks, was the self, these mental formations would not exist for illness, and [you] might obtain these mental formations thus, \"May my mental formations be in this way, may my mental formations not have been in this way.\""
+  }
+ ]
 }

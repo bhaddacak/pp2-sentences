@@ -1,8 +1,10 @@
 {
-  "text" : "Katamañca bhikkhave viññāṇaṃ",
-  "edit" : "Katamañca bhikkhave viññāṇaṃ?",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, what is consciousness?"
-  } ]
+ "text": "Katamañca bhikkhave viññāṇaṃ",
+ "edit": "Katamañca bhikkhave viññāṇaṃ?",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, what is consciousness?"
+  }
+ ]
 }

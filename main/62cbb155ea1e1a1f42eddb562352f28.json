@@ -1,8 +1,10 @@
 {
-  "text" : "Viññuppasatthā bhante",
-  "edit" : "Viññuppasatthā bhante",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Praised by the wise, sir."
-  } ]
+ "text": "Viññuppasatthā bhante",
+ "edit": "Viññuppasatthā bhante",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Praised by the wise, sir."
+  }
+ ]
 }

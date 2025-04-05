@@ -1,8 +1,10 @@
 {
-  "text" : "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti",
-  "edit" : "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Those delighted monks rejoiced in the saying of the Blessed One."
-  } ]
+ "text": "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti",
+ "edit": "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Those delighted monks rejoiced in the saying of the Blessed One."
+  }
+ ]
 }

@@ -1,8 +1,10 @@
 {
-  "text" : "Satta bojjhaṅgā bhāvitā bahulīkatā vijjāvimuttiṃ paripūrenti",
-  "edit" : "Satta bojjhaṅgā bhāvitā bahulīkatā vijjāvimuttiṃ paripūrenti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "The seven factors of enlightenment, [when] having been cultivated and practiced frequently, fulfill insight and liberation."
-  } ]
+ "text": "Satta bojjhaṅgā bhāvitā bahulīkatā vijjāvimuttiṃ paripūrenti",
+ "edit": "Satta bojjhaṅgā bhāvitā bahulīkatā vijjāvimuttiṃ paripūrenti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "The seven factors of enlightenment, [when] having been cultivated and practiced frequently, fulfill insight and liberation."
+  }
+ ]
 }

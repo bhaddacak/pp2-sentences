@@ -1,8 +1,10 @@
 {
-  "text" : "Yasmā ca kho bhikkhave viññāṇaṃ anattā tasmā viññāṇaṃ ābādhāya saṃvattati na ca labbhati viññāṇe evaṃ me viññāṇaṃ hotu evaṃ me viññāṇaṃ mā ahosī ti",
-  "edit" : "Yasmā ca kho bhikkhave viññāṇaṃ anattā tasmā viññāṇaṃ ābādhāya saṃvattati na ca labbhati viññāṇe – evaṃ me viññāṇaṃ hotu evaṃ me viññāṇaṃ mā ahosī ti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Because, monks, consiousness [is] nonself, therefore consiousness exists for illness, and [one] does not obtain the consiousness thus, \"May my consiousness be in this way, may my consiousness not have been in this way.\""
-  } ]
+ "text": "Yasmā ca kho bhikkhave viññāṇaṃ anattā tasmā viññāṇaṃ ābādhāya saṃvattati na ca labbhati viññāṇe evaṃ me viññāṇaṃ hotu evaṃ me viññāṇaṃ mā ahosī ti",
+ "edit": "Yasmā ca kho bhikkhave viññāṇaṃ anattā tasmā viññāṇaṃ ābādhāya saṃvattati na ca labbhati viññāṇe – evaṃ me viññāṇaṃ hotu evaṃ me viññāṇaṃ mā ahosī ti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Because, monks, consiousness [is] nonself, therefore consiousness exists for illness, and [one] does not obtain the consiousness thus, \"May my consiousness be in this way, may my consiousness not have been in this way.\""
+  }
+ ]
 }

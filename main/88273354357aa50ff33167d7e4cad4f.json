@@ -1,8 +1,10 @@
 {
-  "text" : "Iti idañca nāmaṃ idañca rūpaṃ",
-  "edit" : "Iti idañca nāmaṃ idañca rūpaṃ",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Thus, this is name, this is form."
-  } ]
+ "text": "Iti idañca nāmaṃ idañca rūpaṃ",
+ "edit": "Iti idañca nāmaṃ idañca rūpaṃ",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Thus, this is name, this is form."
+  }
+ ]
 }

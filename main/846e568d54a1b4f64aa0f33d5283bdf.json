@@ -1,8 +1,10 @@
 {
-  "text" : "Vedanā anattā",
-  "edit" : "Vedanā anattā",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Feeling, monks, [is] nonself."
-  } ]
+ "text": "Vedanā anattā",
+ "edit": "Vedanā anattā",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Feeling, monks, [is] nonself."
+  }
+ ]
 }

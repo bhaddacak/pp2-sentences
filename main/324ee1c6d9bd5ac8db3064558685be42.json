@@ -1,8 +1,10 @@
 {
-  "text" : "Atha kho bhagavā imaṃ udānaṃ udānesi aññāsi vata bho koṇḍañño aññāsi vata bho koṇḍañño ti",
-  "edit" : "Atha kho bhagavā imaṃ udānaṃ udānesi – aññāsi vata bho koṇḍañño aññāsi vata bho koṇḍañño ti!",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Then the Blessed One uttered this exclamation, \"Oh!, friends, Koṇḍañña understood [it]. Oh!, friends, Koṇḍañña understood [it].\""
-  } ]
+ "text": "Atha kho bhagavā imaṃ udānaṃ udānesi aññāsi vata bho koṇḍañño aññāsi vata bho koṇḍañño ti",
+ "edit": "Atha kho bhagavā imaṃ udānaṃ udānesi – aññāsi vata bho koṇḍañño aññāsi vata bho koṇḍañño ti!",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Then the Blessed One uttered this exclamation, \"Oh!, friends, Koṇḍañña understood [it]. Oh!, friends, Koṇḍañña understood [it].\""
+  }
+ ]
 }

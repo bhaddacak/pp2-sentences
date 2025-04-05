@@ -1,8 +1,10 @@
 {
-  "text" : "Katame dve",
-  "edit" : "Katame dve?",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "What [are] the two?"
-  } ]
+ "text": "Katame dve",
+ "edit": "Katame dve?",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "What [are] the two?"
+  }
+ ]
 }

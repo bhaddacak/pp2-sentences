@@ -1,8 +1,10 @@
 {
-  "text" : "Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṃ pāliccaṃ valittacatā āyuno saṃhāni indriyānaṃ paripāko ayaṃ vuccati jarā",
-  "edit" : "Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṃ pāliccaṃ valittacatā āyuno saṃhāni indriyānaṃ paripāko ayaṃ vuccati jarā",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Which decay in each class of those beings, [that is] the state of decaying, [as well as] breaking [of teeth], greyness of hair, wrinkled skin, decreasing of vitality, [and] overripeness of faculties. This is called 'old-age.'"
-  } ]
+ "text": "Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṃ pāliccaṃ valittacatā āyuno saṃhāni indriyānaṃ paripāko ayaṃ vuccati jarā",
+ "edit": "Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṃ pāliccaṃ valittacatā āyuno saṃhāni indriyānaṃ paripāko ayaṃ vuccati jarā",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Which decay in each class of those beings, [that is] the state of decaying, [as well as] breaking [of teeth], greyness of hair, wrinkled skin, decreasing of vitality, [and] overripeness of faculties. This is called 'old-age.'"
+  }
+ ]
 }

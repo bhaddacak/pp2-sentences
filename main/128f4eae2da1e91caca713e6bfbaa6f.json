@@ -1,8 +1,10 @@
 {
-  "text" : "Idaṃ vuccati bhikkhave viññāṇaṃ",
-  "edit" : "Idaṃ vuccati bhikkhave viññāṇaṃ",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, this is called 'consciousness.'"
-  } ]
+ "text": "Idaṃ vuccati bhikkhave viññāṇaṃ",
+ "edit": "Idaṃ vuccati bhikkhave viññāṇaṃ",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, this is called 'consciousness.'"
+  }
+ ]
 }

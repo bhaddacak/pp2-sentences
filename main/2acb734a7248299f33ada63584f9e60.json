@@ -1,8 +1,10 @@
 {
-  "text" : "Evaṃ no ettha hotī ti",
-  "edit" : "Evaṃ no ettha hotī ti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "That is our [view] in this [matter]."
-  } ]
+ "text": "Evaṃ no ettha hotī ti",
+ "edit": "Evaṃ no ettha hotī ti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "That is our [view] in this [matter]."
+  }
+ ]
 }

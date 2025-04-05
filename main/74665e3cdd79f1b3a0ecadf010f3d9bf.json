@@ -1,8 +1,10 @@
 {
-  "text" : "Idaṃ kho pana bhikkhave dukkhasamudayaṃ ariyasaccaṃ yāyaṃ taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandinī seyyathidaṃ kāmataṇhā bhavataṇhā vibhavataṇhā",
-  "edit" : "Idaṃ kho pana bhikkhave dukkhasamudayaṃ ariyasaccaṃ – yāyaṃ taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandinī seyyathidaṃ – kāmataṇhā bhavataṇhā vibhavataṇhā",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "[That], monks, [is] this noble truth of the origin of suffering, which this craving [is] leading to rebirth, endowed with pleasure and lust, seeking for pleasure in that and that [thing], i.e. craving for sensual pleasure, craving for existence [and] craving for non-existence."
-  } ]
+ "text": "Idaṃ kho pana bhikkhave dukkhasamudayaṃ ariyasaccaṃ yāyaṃ taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandinī seyyathidaṃ kāmataṇhā bhavataṇhā vibhavataṇhā",
+ "edit": "Idaṃ kho pana bhikkhave dukkhasamudayaṃ ariyasaccaṃ – yāyaṃ taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandinī seyyathidaṃ – kāmataṇhā bhavataṇhā vibhavataṇhā",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "[That], monks, [is] this noble truth of the origin of suffering, which this craving [is] leading to rebirth, endowed with pleasure and lust, seeking for pleasure in that and that [thing], i.e. craving for sensual pleasure, craving for existence [and] craving for non-existence."
+  }
+ ]
 }

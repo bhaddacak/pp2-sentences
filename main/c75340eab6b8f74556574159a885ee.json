@@ -1,8 +1,10 @@
 {
-  "text" : "Taṃ kiṃ maññatha kālāmā moho purisassa ajjhattaṃ uppajjamāno uppajjati hitāya vā ahitāya vā ti",
-  "edit" : "Taṃ kiṃ maññatha kālāmā moho purisassa ajjhattaṃ uppajjamāno uppajjati hitāya vā ahitāya vā ti?",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "How do you think about that, Kālāmas? [When] arising inside a person, does delusion arise for usefulness or uselessness?"
-  } ]
+ "text": "Taṃ kiṃ maññatha kālāmā moho purisassa ajjhattaṃ uppajjamāno uppajjati hitāya vā ahitāya vā ti",
+ "edit": "Taṃ kiṃ maññatha kālāmā moho purisassa ajjhattaṃ uppajjamāno uppajjati hitāya vā ahitāya vā ti?",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "How do you think about that, Kālāmas? [When] arising inside a person, does delusion arise for usefulness or uselessness?"
+  }
+ ]
 }

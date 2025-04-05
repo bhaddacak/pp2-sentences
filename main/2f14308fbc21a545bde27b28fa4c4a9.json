@@ -1,8 +1,10 @@
 {
-  "text" : "Bhadante ti te bhikkhū bhagavato paccassosuṃ",
-  "edit" : "Bhadante ti te bhikkhū bhagavato paccassosuṃ",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Those monks responded to the Blessed One, \"Sir!\""
-  } ]
+ "text": "Bhadante ti te bhikkhū bhagavato paccassosuṃ",
+ "edit": "Bhadante ti te bhikkhū bhagavato paccassosuṃ",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Those monks responded to the Blessed One, \"Sir!\""
+  }
+ ]
 }

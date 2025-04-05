@@ -1,8 +1,10 @@
 {
-  "text" : "Ayaṃ vuccati bhikkhave phasso",
-  "edit" : "Ayaṃ vuccati bhikkhave phasso",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, this is called 'contact.'"
-  } ]
+ "text": "Ayaṃ vuccati bhikkhave phasso",
+ "edit": "Ayaṃ vuccati bhikkhave phasso",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, this is called 'contact.'"
+  }
+ ]
 }

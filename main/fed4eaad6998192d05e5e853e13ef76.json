@@ -1,8 +1,10 @@
 {
-  "text" : "Tayome bhikkhave saṅkhārā kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro",
-  "edit" : "Tayome bhikkhave saṅkhārā – kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, [they are] these three volitional activities: volitional activities of the body, of speech, [and] of thought."
-  } ]
+ "text": "Tayome bhikkhave saṅkhārā kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro",
+ "edit": "Tayome bhikkhave saṅkhārā – kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, [they are] these three volitional activities: volitional activities of the body, of speech, [and] of thought."
+  }
+ ]
 }

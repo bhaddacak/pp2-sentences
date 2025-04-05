@@ -1,8 +1,10 @@
 {
-  "text" : "Ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye",
-  "edit" : "Ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "In one occasion, the Blessed One lives in Isipatana Deer Park near Bārāṇasī."
-  } ]
+ "text": "Ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye",
+ "edit": "Ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "In one occasion, the Blessed One lives in Isipatana Deer Park near Bārāṇasī."
+  }
+ ]
 }

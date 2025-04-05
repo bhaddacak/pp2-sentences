@@ -1,8 +1,10 @@
 {
-  "text" : "Anattalakkhaṇasuttaṃ",
-  "edit" : "Anattalakkhaṇasuttaṃ",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "A discourse concerning the characteristic of nonself"
-  } ]
+ "text": "Anattalakkhaṇasuttaṃ",
+ "edit": "Anattalakkhaṇasuttaṃ",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "A discourse concerning the characteristic of nonself"
+  }
+ ]
 }

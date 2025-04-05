@@ -1,8 +1,10 @@
 {
-  "text" : "Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā ti",
-  "edit" : "Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā ti?",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Then, which [is] impermanent, is that suffering or happiness?"
-  } ]
+ "text": "Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā ti",
+ "edit": "Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā ti?",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Then, which [is] impermanent, is that suffering or happiness?"
+  }
+ ]
 }

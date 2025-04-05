@@ -1,8 +1,10 @@
 {
-  "text" : "Taṃ kho panidaṃ dukkhaṃ ariyasaccaṃ pariññāta nti me bhikkhave pubbe ananussutesu dhammesu cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi",
-  "edit" : "Taṃ kho panidaṃ dukkhaṃ ariyasaccaṃ pariññāta nti me bhikkhave pubbe ananussutesu dhammesu cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, that vision, insight, wisdom, knowledge, [and] light arose to me in the teaching never heard before thus, \"This suffering as a noble truth had been well understood [by me].\""
-  } ]
+ "text": "Taṃ kho panidaṃ dukkhaṃ ariyasaccaṃ pariññāta nti me bhikkhave pubbe ananussutesu dhammesu cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi",
+ "edit": "Taṃ kho panidaṃ dukkhaṃ ariyasaccaṃ pariññāta nti me bhikkhave pubbe ananussutesu dhammesu cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, that vision, insight, wisdom, knowledge, [and] light arose to me in the teaching never heard before thus, \"This suffering as a noble truth had been well understood [by me].\""
+  }
+ ]
 }

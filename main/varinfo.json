@@ -1,19 +1,24 @@
 {
-  "variants" : [ {
-    "name" : "PNL2",
-    "author" : "J.R. Bhaddacak",
-    "note" : "As found in Pāli for New Learners, Book 2"
-  }, {
-    "name" : "Thanissaro",
-    "author" : "Ṭhānissaro Bhikkhu (Geoffrey DeGraff)",
-    "note" : "http://www.accesstoinsight.org"
-  }, {
-    "name" : "Thai Common",
-    "author" : "Various",
-    "note" : "From the official/widespread Thai translations."
-  }, {
-    "name" : "Nyanamoli",
-    "author" : "Ñaṇamoli Thera (Osbert Moore)",
-    "note" : "The Pāṭimokkha, printed by Mahāmakuṭarājavidyālaya, Bangkok, 2009"
-  } ]
+ "variants": [
+  {
+   "name": "Thanissaro",
+   "author": "Ṭhānissaro Bhikkhu (Geoffrey DeGraff)",
+   "note": "http://www.accesstoinsight.org"
+  },
+  {
+   "name": "Thai Common",
+   "author": "Various",
+   "note": "From the official/widespread Thai translations."
+  },
+  {
+   "name": "Nyanamoli",
+   "author": "Ñaṇamoli Thera (Osbert Moore)",
+   "note": "The Pāṭimokkha, printed by Mahāmakuṭarājavidyālaya, Bangkok, 2009"
+  },
+  {
+   "name": "PTR",
+   "author": "J.R. Bhaddacak",
+   "note": "As found in Pāli Text Reading: A Handbook"
+  }
+ ]
 }

@@ -1,8 +1,10 @@
 {
-  "text" : "Ete kho bhikkhave ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati",
-  "edit" : "Ete kho bhikkhave ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "The practice of moderation, monks, not inclining to these both extremes, having been realized by the Buddha; making the wisdom eye [and] insight [happen]; leads to pacification, supreme knowledge, enlightenment, [and] nirvana."
-  } ]
+ "text": "Ete kho bhikkhave ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati",
+ "edit": "Ete kho bhikkhave ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "The practice of moderation, monks, not inclining to these both extremes, having been realized by the Buddha; making the wisdom eye [and] insight [happen]; leads to pacification, supreme knowledge, enlightenment, [and] nirvana."
+  }
+ ]
 }

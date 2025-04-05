@@ -1,8 +1,10 @@
 {
-  "text" : "Rūpaṃ bhikkhave anattā",
-  "edit" : "Rūpaṃ bhikkhave anattā",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Form, monks, [is] nonself."
-  } ]
+ "text": "Rūpaṃ bhikkhave anattā",
+ "edit": "Rūpaṃ bhikkhave anattā",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Form, monks, [is] nonself."
+  }
+ ]
 }

@@ -1,8 +1,10 @@
 {
-  "text" : "Atha kho bhagavā tuṇhībhūtaṃ tuṇhībhūtaṃ bhikkhusaṅghaṃ anuviloketvā bhikkhū āmantesi apalāpāyaṃ bhikkhave parisā nippalāpāyaṃ bhikkhave parisā suddhā sāre patiṭṭhitā",
-  "edit" : "Atha kho bhagavā tuṇhībhūtaṃ tuṇhībhūtaṃ bhikkhusaṅghaṃ anuviloketvā bhikkhū āmantesi – apalāpāyaṃ bhikkhave parisā nippalāpāyaṃ bhikkhave parisā suddhā sāre patiṭṭhitā",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Then the Blessed One, having looked over the monks' assembly, each of them [was] in a state of silence, addressed the monks thus, \"Monks, this assembly [is] void of prattle. Monks, this assembly [is] void of idle chatter. [It] was purified, established in the essence [= no nonsense].\""
-  } ]
+ "text": "Atha kho bhagavā tuṇhībhūtaṃ tuṇhībhūtaṃ bhikkhusaṅghaṃ anuviloketvā bhikkhū āmantesi apalāpāyaṃ bhikkhave parisā nippalāpāyaṃ bhikkhave parisā suddhā sāre patiṭṭhitā",
+ "edit": "Atha kho bhagavā tuṇhībhūtaṃ tuṇhībhūtaṃ bhikkhusaṅghaṃ anuviloketvā bhikkhū āmantesi – apalāpāyaṃ bhikkhave parisā nippalāpāyaṃ bhikkhave parisā suddhā sāre patiṭṭhitā",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Then the Blessed One, having looked over the monks' assembly, each of them [was] in a state of silence, addressed the monks thus, \"Monks, this assembly [is] void of prattle. Monks, this assembly [is] void of idle chatter. [It] was purified, established in the essence [= no nonsense].\""
+  }
+ ]
 }

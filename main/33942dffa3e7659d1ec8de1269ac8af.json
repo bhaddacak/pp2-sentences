@@ -1,8 +1,10 @@
 {
-  "text" : "Katamā ca bhikkhave avijjā",
-  "edit" : "Katamā ca bhikkhave avijjā?",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, what is ignorance?"
-  } ]
+ "text": "Katamā ca bhikkhave avijjā",
+ "edit": "Katamā ca bhikkhave avijjā?",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, what is ignorance?"
+  }
+ ]
 }

@@ -1,8 +1,10 @@
 {
-  "text" : "Appekacce therā bhikkhū dasapi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū vīsampi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū tiṃsampi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū cattārīsampi bhikkhū ovadanti anusāsanti",
-  "edit" : "Appekacce therā bhikkhū dasapi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū vīsampi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū tiṃsampi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū cattārīsampi bhikkhū ovadanti anusāsanti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Some senior monks give advices to [and] instruct ten monks, some give to twenty monks, some thirty, [and] some forty."
-  } ]
+ "text": "Appekacce therā bhikkhū dasapi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū vīsampi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū tiṃsampi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū cattārīsampi bhikkhū ovadanti anusāsanti",
+ "edit": "Appekacce therā bhikkhū dasapi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū vīsampi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū tiṃsampi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū cattārīsampi bhikkhū ovadanti anusāsanti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Some senior monks give advices to [and] instruct ten monks, some give to twenty monks, some thirty, [and] some forty."
+  }
+ ]
 }

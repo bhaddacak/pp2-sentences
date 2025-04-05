@@ -1,8 +1,10 @@
 {
-  "text" : "Chayime bhikkhave vedanākāyā cakkhusamphassajā vedanā sotasamphassajā vedanā ghānasamphassajā vedanā jivhāsamphassajā vedanā kāyasamphassajā vedanā manosamphassajā vedanā",
-  "edit" : "Chayime bhikkhave vedanākāyā – cakkhusamphassajā vedanā sotasamphassajā vedanā ghānasamphassajā vedanā jivhāsamphassajā vedanā kāyasamphassajā vedanā manosamphassajā vedanā",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, [they are] these six groups of feeling: feeling arising from contact of eyes, ears, nose, tongue, body, [and] mind."
-  } ]
+ "text": "Chayime bhikkhave vedanākāyā cakkhusamphassajā vedanā sotasamphassajā vedanā ghānasamphassajā vedanā jivhāsamphassajā vedanā kāyasamphassajā vedanā manosamphassajā vedanā",
+ "edit": "Chayime bhikkhave vedanākāyā – cakkhusamphassajā vedanā sotasamphassajā vedanā ghānasamphassajā vedanā jivhāsamphassajā vedanā kāyasamphassajā vedanā manosamphassajā vedanā",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, [they are] these six groups of feeling: feeling arising from contact of eyes, ears, nose, tongue, body, [and] mind."
+  }
+ ]
 }

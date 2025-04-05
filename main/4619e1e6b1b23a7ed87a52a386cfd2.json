@@ -1,8 +1,10 @@
 {
-  "text" : "Pañcamaṃ",
-  "edit" : "Pañcamaṃ",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "The fifth [was finished]."
-  } ]
+ "text": "Pañcamaṃ",
+ "edit": "Pañcamaṃ",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "The fifth [was finished]."
+  }
+ ]
 }

@@ -1,8 +1,10 @@
 {
-  "text" : "Ime vuccanti bhikkhave saṅkhārā",
-  "edit" : "Ime vuccanti bhikkhave saṅkhārā",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, these are called 'volitional activities.'"
-  } ]
+ "text": "Ime vuccanti bhikkhave saṅkhārā",
+ "edit": "Ime vuccanti bhikkhave saṅkhārā",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, these are called 'volitional activities.'"
+  }
+ ]
 }

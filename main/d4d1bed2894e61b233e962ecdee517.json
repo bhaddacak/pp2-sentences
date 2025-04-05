@@ -1,8 +1,10 @@
 {
-  "text" : "Yasmā ca kho bhikkhave vedanā anattā tasmā vedanā ābādhāya saṃvattati na ca labbhati vedanāya evaṃ me vedanā hotu evaṃ me vedanā mā ahosī ti",
-  "edit" : "Yasmā ca kho bhikkhave vedanā anattā tasmā vedanā ābādhāya saṃvattati na ca labbhati vedanāya – evaṃ me vedanā hotu evaṃ me vedanā mā ahosī ti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Because, monks, feeling [is] nonself, therefore feeling exists for illness, and [one] does not obtain the feeling thus, \"May my feeling be in this way, may my feeling not have been in this way.\""
-  } ]
+ "text": "Yasmā ca kho bhikkhave vedanā anattā tasmā vedanā ābādhāya saṃvattati na ca labbhati vedanāya evaṃ me vedanā hotu evaṃ me vedanā mā ahosī ti",
+ "edit": "Yasmā ca kho bhikkhave vedanā anattā tasmā vedanā ābādhāya saṃvattati na ca labbhati vedanāya – evaṃ me vedanā hotu evaṃ me vedanā mā ahosī ti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Because, monks, feeling [is] nonself, therefore feeling exists for illness, and [one] does not obtain the feeling thus, \"May my feeling be in this way, may my feeling not have been in this way.\""
+  }
+ ]
 }

@@ -1,8 +1,10 @@
 {
-  "text" : "Ānāpānassatisuttaṃ niṭṭhitaṃ aṭṭhamaṃ",
-  "edit" : "Ānāpānassatisuttaṃ niṭṭhitaṃ aṭṭhamaṃ",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "A discourse concerning mindfulness of breathing, the eight [sutta], was finished."
-  } ]
+ "text": "Ānāpānassatisuttaṃ niṭṭhitaṃ aṭṭhamaṃ",
+ "edit": "Ānāpānassatisuttaṃ niṭṭhitaṃ aṭṭhamaṃ",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "A discourse concerning mindfulness of breathing, the eight [sutta], was finished."
+  }
+ ]
 }

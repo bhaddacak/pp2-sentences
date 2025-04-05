@@ -1,8 +1,10 @@
 {
-  "text" : "Samattā samādinnā hitāya sukhāya saṃvattanti no vā",
-  "edit" : "Samattā samādinnā hitāya sukhāya saṃvattanti no vā?",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "[When] completely taken upon, [do they] lead to usefulness [and] happiness or not?"
-  } ]
+ "text": "Samattā samādinnā hitāya sukhāya saṃvattanti no vā",
+ "edit": "Samattā samādinnā hitāya sukhāya saṃvattanti no vā?",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "[When] completely taken upon, [do they] lead to usefulness [and] happiness or not?"
+  }
+ ]
 }

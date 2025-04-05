@@ -1,8 +1,10 @@
 {
-  "text" : "Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne pañcavaggiyānaṃ bhikkhūnaṃ anupādāya āsavehi cittāni vimucciṃsūti",
-  "edit" : "Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne pañcavaggiyānaṃ bhikkhūnaṃ anupādāya āsavehi cittāni vimucciṃsūti",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "While this exposition was being said, the minds of the five monks were liberated from intoxicants because of detachment."
-  } ]
+ "text": "Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne pañcavaggiyānaṃ bhikkhūnaṃ anupādāya āsavehi cittāni vimucciṃsūti",
+ "edit": "Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne pañcavaggiyānaṃ bhikkhūnaṃ anupādāya āsavehi cittāni vimucciṃsūti",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "While this exposition was being said, the minds of the five monks were liberated from intoxicants because of detachment."
+  }
+ ]
 }

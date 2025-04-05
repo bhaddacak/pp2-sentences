@@ -1,8 +1,10 @@
 {
-  "text" : "Katamā ca bhikkhave taṇhā",
-  "edit" : "Katamā ca bhikkhave taṇhā?",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, what is craving?"
-  } ]
+ "text": "Katamā ca bhikkhave taṇhā",
+ "edit": "Katamā ca bhikkhave taṇhā?",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, what is craving?"
+  }
+ ]
 }

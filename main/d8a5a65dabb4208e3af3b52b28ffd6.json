@@ -1,8 +1,10 @@
 {
-  "text" : "Katamañca bhikkhave upādānaṃ",
-  "edit" : "Katamañca bhikkhave upādānaṃ?",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, what is clinging?"
-  } ]
+ "text": "Katamañca bhikkhave upādānaṃ",
+ "edit": "Katamañca bhikkhave upādānaṃ?",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, what is clinging?"
+  }
+ ]
 }

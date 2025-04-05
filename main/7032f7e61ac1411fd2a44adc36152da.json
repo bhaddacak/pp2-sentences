@@ -1,8 +1,10 @@
 {
-  "text" : "Tayo me bhikkhave bhavā kāmabhavo rūpabhavo arūpabhavo",
-  "edit" : "Tayo me bhikkhave bhavā – kāmabhavo rūpabhavo arūpabhavo",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, these [are] three existences: existence in the realm of pleasure, existence in the realm of form, [and] existence in the realm of formless beings."
-  } ]
+ "text": "Tayo me bhikkhave bhavā kāmabhavo rūpabhavo arūpabhavo",
+ "edit": "Tayo me bhikkhave bhavā – kāmabhavo rūpabhavo arūpabhavo",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, these [are] three existences: existence in the realm of pleasure, existence in the realm of form, [and] existence in the realm of formless beings."
+  }
+ ]
 }

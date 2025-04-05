@@ -1,8 +1,10 @@
 {
-  "text" : "Katamañca bhikkhave jarāmaraṇaṃ",
-  "edit" : "Katamañca bhikkhave jarāmaraṇaṃ?",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Monks, what is old-age-and-death?"
-  } ]
+ "text": "Katamañca bhikkhave jarāmaraṇaṃ",
+ "edit": "Katamañca bhikkhave jarāmaraṇaṃ?",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Monks, what is old-age-and-death?"
+  }
+ ]
 }

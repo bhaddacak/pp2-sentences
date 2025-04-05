@@ -1,8 +1,10 @@
 {
-  "text" : "Taṃ kiṃ maññatha kālāmā ime dhammā kusalā vā akusalā vā ti",
-  "edit" : "Taṃ kiṃ maññatha kālāmā ime dhammā kusalā vā akusalā vā ti?",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "How do you think about that, Kālāmas? Are these kinds of nature skillful or unskillful?"
-  } ]
+ "text": "Taṃ kiṃ maññatha kālāmā ime dhammā kusalā vā akusalā vā ti",
+ "edit": "Taṃ kiṃ maññatha kālāmā ime dhammā kusalā vā akusalā vā ti?",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "How do you think about that, Kālāmas? Are these kinds of nature skillful or unskillful?"
+  }
+ ]
 }

@@ -1,8 +1,10 @@
 {
-  "text" : "Viññāṇaṃ anattā",
-  "edit" : "Viññāṇaṃ anattā",
-  "translations" : [ {
-    "variant" : "PNL2",
-    "transtext" : "Consciousness, monks, [is] nonself."
-  } ]
+ "text": "Viññāṇaṃ anattā",
+ "edit": "Viññāṇaṃ anattā",
+ "translations": [
+  {
+   "variant": "PTR",
+   "transtext": "Consciousness, monks, [is] nonself."
+  }
+ ]
 }
